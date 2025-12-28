@@ -1,0 +1,53 @@
+table{
+    background-color: darkseagreen;
+    color: white;
+    font-family:cursive;
+    height: 200px;
+   width: 30%;
+   text-align: center;
+}
+#table{
+    font-weight:bolder;
+    background-color: coral;
+}
+#highlight{
+    font-family: monospace;
+    font-size:1cm;
+    padding:5px;
+    background-color:coral;
+    text-align: center;
+}
+
+#portflio-header{
+    background-color: darkseagreen;
+    margin-top: -180px;
+    text-align: center;font-size: 950%; color:white; font-family: fantasy;
+
+}
+#PD{
+   background-color: darkseagreen;
+background-color: darkseagreen; 
+color: white;  
+    margin-top:100px;
+}
+#CV{
+   
+background-color: darkseagreen;
+text-align: center; 
+background-color: darkseagreen; 
+color: white; 
+margin-top: -50px;
+    
+
+
+
+}
+html{
+    padding: 50px
+} 
+.center {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+    
+   
